@@ -17,17 +17,38 @@ python -m venv venv
 
 # documentation :
 - Swagger : route/docs
+<br />
 - redoc : route/redoc
 
 # git :
 >>git init
+<br />
 >>git checkout -b [num][name]
+<br />
 >>git status
+<br />
 goto: https://gitignore.io/ (python,windows,macos,vim,visualstudiocode,linux)
+<br />
 copy all to .gitignore file
+<br />
 >>git status
+<br />
 >>git add .
+<br />
 >>git commit -m "first commit with initial api setup"
+<br />
 >>git remote add origin [url]
+<br />
 >>git remote -v
+<br />
 >>git push -u origin [num]][name]
+<br />
+- to update and add new branches :
+<br />
+git checkout -b [num][name]
+<br />
+>>git status
+<br />
+>>git add .
+<br />
+>>git commit -m "fourth commit with initial api setup"
