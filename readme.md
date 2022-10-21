@@ -26,4 +26,8 @@ python -m venv venv
 goto: https://gitignore.io/ (python,windows,macos,vim,visualstudiocode,linux)
 copy all to .gitignore file
 >>git status
-
+>>git add .
+>>git commit -m "first commit with initial api setup"
+>>git remote add origin [url]
+>>git remote -v
+>>git push -u origin [num]][name]
