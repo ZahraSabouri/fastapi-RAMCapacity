@@ -51,4 +51,6 @@ git checkout -b [num][name]
 <br />
 >>git add .
 <br />
->>git commit -m "fourth commit with initial api setup"
+>>git commit -m "fifth commit with initial api setup"
+<br />
+>>git push -u origin
